@@ -1,0 +1,470 @@
+[
+  {
+    "id": "eiffel-tower",
+    "name": "Eiffel Tower",
+    "lat": 48.8584,
+    "lng": 2.2945,
+    "clue": "This iron lattice tower was built as the entrance arch for the 1889 World's Fair and was originally intended to be demolished after 20 years.",
+    "funFact": "It was the world's tallest man-made structure for 41 years.",
+    "category": "landmark"
+  },
+  {
+    "id": "machu-picchu",
+    "name": "Machu Picchu",
+    "lat": -13.1631,
+    "lng": -72.545,
+    "clue": "This 15th-century Inca citadel sits at 2,430 metres above sea level in the Andes mountains, often called the 'Lost City of the Incas'.",
+    "funFact": "It was unknown to the outside world until 1911 when Hiram Bingham III visited the site.",
+    "category": "landmark"
+  },
+  {
+    "id": "great-wall",
+    "name": "Great Wall of China",
+    "lat": 40.4319,
+    "lng": 116.5704,
+    "clue": "This ancient series of walls and fortifications stretches thousands of miles across northern East Asia, built over many centuries to protect against invasions.",
+    "funFact": "It is not actually visible from space with the naked eye, contrary to popular belief.",
+    "category": "landmark"
+  },
+  {
+    "id": "colosseum",
+    "name": "Colosseum",
+    "lat": 41.8902,
+    "lng": 12.4922,
+    "clue": "This elliptical amphitheater in the heart of a European capital could hold between 50,000 and 80,000 spectators and hosted gladiatorial contests.",
+    "funFact": "Its construction began under Emperor Vespasian around 70-72 AD.",
+    "category": "landmark"
+  },
+  {
+    "id": "taj-mahal",
+    "name": "Taj Mahal",
+    "lat": 27.1751,
+    "lng": 78.0421,
+    "clue": "This ivory-white marble mausoleum was commissioned by a Mughal emperor in the 17th century as a tomb for his favorite wife.",
+    "funFact": "Over 20,000 artisans worked on its construction, which took about 22 years.",
+    "category": "landmark"
+  },
+  {
+    "id": "sydney-opera-house",
+    "name": "Sydney Opera House",
+    "lat": -33.8568,
+    "lng": 151.2153,
+    "clue": "This multi-venue performing arts centre is one of the most distinctive buildings of the 20th century, with its distinctive shell-like roof structures on a harbor.",
+    "funFact": "Danish architect Jørn Utzon won the design competition in 1957 with his revolutionary design.",
+    "category": "landmark"
+  },
+  {
+    "id": "amazon-river",
+    "name": "Amazon River",
+    "lat": -3.4653,
+    "lng": -62.2159,
+    "clue": "This massive South American river carries more water than the next seven largest rivers combined, flowing through the world's largest tropical rainforest.",
+    "funFact": "During the wet season, the river can be up to 30 miles wide.",
+    "category": "natural"
+  },
+  {
+    "id": "mount-everest",
+    "name": "Mount Everest",
+    "lat": 27.9881,
+    "lng": 86.925,
+    "clue": "At 8,849 metres, this is Earth's highest mountain above sea level, located in the Himalayas on the border between two Asian countries.",
+    "funFact": "Edmund Hillary and Tenzing Norgay made the first confirmed ascent on May 29, 1953.",
+    "category": "natural"
+  },
+  {
+    "id": "grand-canyon",
+    "name": "Grand Canyon",
+    "lat": 36.1069,
+    "lng": -112.1129,
+    "clue": "This steep-sided canyon carved by a river in the American Southwest is 277 miles long, up to 18 miles wide, and over a mile deep.",
+    "funFact": "The canyon exposes nearly two billion years of Earth's geological history.",
+    "category": "natural"
+  },
+  {
+    "id": "niagara-falls",
+    "name": "Niagara Falls",
+    "lat": 43.0962,
+    "lng": -79.0377,
+    "clue": "This group of three waterfalls on the border between the United States and Canada is the most powerful waterfall in North America.",
+    "funFact": "More than 3,160 tons of water flows over the falls every second.",
+    "category": "natural"
+  },
+  {
+    "id": "victoria-falls",
+    "name": "Victoria Falls",
+    "lat": -17.9243,
+    "lng": 25.8572,
+    "clue": "Known locally as 'The Smoke That Thunders', this waterfall on the border between two southern African countries is considered the world's largest.",
+    "funFact": "The spray from the falls can be seen from up to 50 km away.",
+    "category": "natural"
+  },
+  {
+    "id": "sahara-desert",
+    "name": "Sahara Desert",
+    "lat": 23.4162,
+    "lng": 25.6628,
+    "clue": "This is the world's largest hot desert, spanning most of North Africa. Despite its barren image, only about 25% of it is covered in sand.",
+    "funFact": "Approximately 4,000–10,000 years ago, the Sahara was much greener and wetter.",
+    "category": "natural"
+  },
+  {
+    "id": "tokyo",
+    "name": "Tokyo",
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "clue": "This is the world's most populous metropolitan area, a megacity known for its neon-lit skyscrapers, historic temples, and cutting-edge technology.",
+    "funFact": "It was formerly known as Edo and became the imperial capital in 1869.",
+    "category": "city"
+  },
+  {
+    "id": "cairo",
+    "name": "Cairo",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "clue": "This sprawling African city is the largest in its continent and sits at the gateway to ancient wonders, including giant stone structures built over 4,500 years ago.",
+    "funFact": "The city's name derives from the Arabic Al-Qāhirah, meaning 'The Triumphant'.",
+    "category": "city"
+  },
+  {
+    "id": "rio-de-janeiro",
+    "name": "Rio de Janeiro",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "clue": "This South American city is famous for its iconic Christ the Redeemer statue, Carnival festival, and stunning natural harbor.",
+    "funFact": "It was the capital of Brazil until 1960 when Brasília was inaugurated.",
+    "category": "city"
+  },
+  {
+    "id": "new-york",
+    "name": "New York City",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "clue": "The most populous city in the United States, known as 'The Big Apple', home to a famous green copper statue gifted by France in 1886.",
+    "funFact": "Over 800 languages are spoken in this city, making it the most linguistically diverse urban area in the world.",
+    "category": "city"
+  },
+  {
+    "id": "london",
+    "name": "London",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "clue": "This European capital on the Thames River has been a major settlement for over two millennia and is home to a famous clock tower and a red double-decker bus culture.",
+    "funFact": "It became the world's first city to reach a population of 1 million people, around 1811.",
+    "category": "city"
+  },
+  {
+    "id": "dubai",
+    "name": "Dubai",
+    "lat": 25.2048,
+    "lng": 55.2708,
+    "clue": "This ultramodern city in the Arabian Peninsula rose from a small fishing village to a global metropolis in just decades, home to the world's tallest building.",
+    "funFact": "Over 90% of its residents are expatriates from around the world.",
+    "category": "city"
+  },
+  {
+    "id": "moscow",
+    "name": "Moscow",
+    "lat": 55.7558,
+    "lng": 37.6173,
+    "clue": "This city is home to a famous square flanked by a colorful cathedral with onion-shaped domes, and serves as the capital of the world's largest country by area.",
+    "funFact": "The Moscow Metro system is famous for its ornate, palatial stations built in the Soviet era.",
+    "category": "city"
+  },
+  {
+    "id": "beijing",
+    "name": "Beijing",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "clue": "This East Asian capital contains the world's largest palace complex, a 'Forbidden City' that served as the home of emperors for nearly 500 years.",
+    "funFact": "It has served as the national capital for more than 800 years.",
+    "category": "city"
+  },
+  {
+    "id": "cape-town",
+    "name": "Cape Town",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "clue": "This South African city sits at the southwestern tip of the continent, dominated by a famous flat-topped mountain that is often shrouded in clouds called a 'tablecloth'.",
+    "funFact": "It is one of the most biodiverse cities in the world, home to a unique floral kingdom.",
+    "category": "city"
+  },
+  {
+    "id": "buenos-aires",
+    "name": "Buenos Aires",
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "clue": "This South American capital is known as the 'Paris of South America' and is the birthplace of the tango, a passionate dance and music style.",
+    "funFact": "It has the widest avenue in the world, Avenida 9 de Julio, spanning 16 lanes.",
+    "category": "city"
+  },
+  {
+    "id": "istanbul",
+    "name": "Istanbul",
+    "lat": 41.0082,
+    "lng": 28.9784,
+    "clue": "This Turkish city is the only major city in the world that spans two continents, and was once the capital of three empires including the Ottoman Empire.",
+    "funFact": "It was previously known as Constantinople and before that as Byzantium.",
+    "category": "city"
+  },
+  {
+    "id": "nairobi",
+    "name": "Nairobi",
+    "lat": -1.2921,
+    "lng": 36.8219,
+    "clue": "This East African capital is unique in having a national park within its city limits where lions and giraffes roam against a backdrop of skyscrapers.",
+    "funFact": "Its name comes from a Maasai phrase meaning 'cool waters' or 'place of cool waters'.",
+    "category": "city"
+  },
+  {
+    "id": "mumbai",
+    "name": "Mumbai",
+    "lat": 19.076,
+    "lng": 72.8777,
+    "clue": "This Indian megacity is the financial capital of the country and home to Bollywood, the world's most prolific film industry by number of films produced.",
+    "funFact": "It was previously known as Bombay until 1995.",
+    "category": "city"
+  },
+  {
+    "id": "angkor-wat",
+    "name": "Angkor Wat",
+    "lat": 13.4125,
+    "lng": 103.867,
+    "clue": "This 12th-century temple complex in Southeast Asia is the world's largest religious monument, originally built as a Hindu temple before converting to Buddhism.",
+    "funFact": "It appears on the national flag of Cambodia.",
+    "category": "landmark"
+  },
+  {
+    "id": "petra",
+    "name": "Petra",
+    "lat": 30.3285,
+    "lng": 35.4444,
+    "clue": "Known as the 'Rose City' due to the color of the stone from which it is carved, this ancient Middle Eastern city was the capital of the Nabataean Kingdom.",
+    "funFact": "It was featured in Indiana Jones and the Last Crusade as the location of the Holy Grail.",
+    "category": "landmark"
+  },
+  {
+    "id": "stonehenge",
+    "name": "Stonehenge",
+    "lat": 51.1789,
+    "lng": -1.8262,
+    "clue": "This prehistoric monument on a British plain consists of a ring of standing stones weighing up to 25 tonnes, built over 4,000 years ago for unknown purposes.",
+    "funFact": "The larger stones were transported from a quarry about 25 miles away.",
+    "category": "landmark"
+  },
+  {
+    "id": "chichen-itza",
+    "name": "Chichen Itza",
+    "lat": 20.6843,
+    "lng": -88.5678,
+    "clue": "This pre-Columbian city built by the Maya civilization in Mexico features a famous step pyramid that casts a serpent-shaped shadow during the equinoxes.",
+    "funFact": "The pyramid has exactly 365 steps, one for each day of the year.",
+    "category": "landmark"
+  },
+  {
+    "id": "acropolis",
+    "name": "Acropolis of Athens",
+    "lat": 37.9715,
+    "lng": 23.7257,
+    "clue": "This ancient citadel perched on a rocky outcrop above a Mediterranean capital contains the remains of several ancient buildings of great architectural and historic significance.",
+    "funFact": "The Parthenon was used as a temple, treasury, church, mosque, and arms depot over its history.",
+    "category": "landmark"
+  },
+  {
+    "id": "mount-fuji",
+    "name": "Mount Fuji",
+    "lat": 35.3606,
+    "lng": 138.7274,
+    "clue": "This symmetrical stratovolcano is the highest peak in an island nation and has been a sacred site and source of artistic inspiration for centuries.",
+    "funFact": "It last erupted in 1707 and is considered one of the world's most iconic mountains.",
+    "category": "natural"
+  },
+  {
+    "id": "aurora-borealis-tromsø",
+    "name": "Tromsø",
+    "lat": 69.6496,
+    "lng": 18.9553,
+    "clue": "This Norwegian city above the Arctic Circle is one of the best places on Earth to see the Northern Lights dancing in the night sky.",
+    "funFact": "It is nicknamed the 'Gateway to the Arctic' and experiences the midnight sun in summer.",
+    "category": "city"
+  },
+  {
+    "id": "galapagos",
+    "name": "Galapagos Islands",
+    "lat": -0.9538,
+    "lng": -90.9656,
+    "clue": "This remote volcanic archipelago in the Pacific Ocean inspired Charles Darwin's theory of natural selection after his visit in 1835.",
+    "funFact": "Giant tortoises here can live over 170 years and were the primary inspiration for the islands' name.",
+    "category": "natural"
+  },
+  {
+    "id": "great-barrier-reef",
+    "name": "Great Barrier Reef",
+    "lat": -18.2871,
+    "lng": 147.6992,
+    "clue": "This is the world's largest coral reef system, stretching over 2,300 km off the northeastern coast of Australia, visible from outer space.",
+    "funFact": "It comprises over 2,900 individual reefs and 900 islands.",
+    "category": "natural"
+  },
+  {
+    "id": "lake-titicaca",
+    "name": "Lake Titicaca",
+    "lat": -15.8402,
+    "lng": -69.3336,
+    "clue": "This is the world's highest navigable lake, straddling the border between two South American countries at an elevation of 3,812 metres.",
+    "funFact": "Floating islands made entirely of totora reeds are inhabited by the Uros people on this lake.",
+    "category": "natural"
+  },
+  {
+    "id": "dead-sea",
+    "name": "Dead Sea",
+    "lat": 31.5,
+    "lng": 35.5,
+    "clue": "This salt lake bordered by Jordan and Israel is Earth's lowest point on land at 430 metres below sea level, with salinity so high that swimmers naturally float.",
+    "funFact": "Nothing can live in its waters due to its extreme salinity, which is about ten times saltier than the ocean.",
+    "category": "natural"
+  },
+  {
+    "id": "antartica-mcmurdo",
+    "name": "McMurdo Station",
+    "lat": -77.8419,
+    "lng": 166.6863,
+    "clue": "This is the largest research station on the southernmost continent, serving as the main hub for scientific exploration in Earth's most extreme environment.",
+    "funFact": "The surrounding region has not received rain in two million years, making it Earth's driest desert.",
+    "category": "landmark"
+  },
+  {
+    "id": "reykjavik",
+    "name": "Reykjavik",
+    "lat": 64.1265,
+    "lng": -21.8174,
+    "clue": "This is the northernmost capital city of a sovereign state, located in a volcanic island nation famous for geysers, hot springs, and stunning natural landscapes.",
+    "funFact": "Almost all of its electricity comes from renewable geothermal and hydropower sources.",
+    "category": "city"
+  },
+  {
+    "id": "timbuktu",
+    "name": "Timbuktu",
+    "lat": 16.7666,
+    "lng": -3.0026,
+    "clue": "This fabled city in the Sahara Desert of West Africa was once one of the most important centers of Islamic scholarship and trans-Saharan trade in the 15th century.",
+    "funFact": "The city's name has become synonymous in many cultures with a remote, faraway place.",
+    "category": "city"
+  },
+  {
+    "id": "zanzibar",
+    "name": "Zanzibar",
+    "lat": -6.1659,
+    "lng": 39.2026,
+    "clue": "This semi-autonomous archipelago off the coast of East Africa is famous for its spice trade history, white-sand beaches, and historic Stone Town.",
+    "funFact": "Freddie Mercury, lead singer of Queen, was born here in 1946.",
+    "category": "city"
+  },
+  {
+    "id": "havana",
+    "name": "Havana",
+    "lat": 23.1136,
+    "lng": -82.3666,
+    "clue": "This Caribbean island capital is famous for its well-preserved colonial architecture, vintage American cars, and vibrant salsa music scene.",
+    "funFact": "It is the largest city in the Caribbean and was founded by the Spanish in 1519.",
+    "category": "city"
+  },
+  {
+    "id": "kathmandu",
+    "name": "Kathmandu",
+    "lat": 27.7172,
+    "lng": 85.3240,
+    "clue": "This Himalayan capital sits in a valley surrounded by mountains and serves as the gateway for expeditions to the world's highest peaks.",
+    "funFact": "The valley contains seven UNESCO World Heritage Sites within close proximity.",
+    "category": "city"
+  },
+  {
+    "id": "marrakech",
+    "name": "Marrakech",
+    "lat": 31.6295,
+    "lng": -7.9811,
+    "clue": "This North African city's ancient medina is a maze of souks, mosques, and palaces, known for its main square that fills nightly with entertainers and food stalls.",
+    "funFact": "It is nicknamed the 'Red City' due to the distinctive rose-red sandstone walls and buildings.",
+    "category": "city"
+  },
+  {
+    "id": "venice",
+    "name": "Venice",
+    "lat": 45.4408,
+    "lng": 12.3155,
+    "clue": "This Italian city is built on 118 small islands separated by canals, where gondolas replace cars and the city slowly sinks about 1-2mm per year.",
+    "funFact": "The city was built on millions of wooden piles driven into the lagoon floor.",
+    "category": "city"
+  },
+  {
+    "id": "kyoto",
+    "name": "Kyoto",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "clue": "This Japanese city served as the imperial capital for over a millennium and is famous for its thousands of classical Buddhist temples, gardens, and geisha districts.",
+    "funFact": "It was removed from the US atomic bomb target list due to its historical and cultural significance.",
+    "category": "city"
+  },
+  {
+    "id": "ayers-rock",
+    "name": "Uluru",
+    "lat": -25.3444,
+    "lng": 131.0369,
+    "clue": "This massive sandstone monolith in the heart of the Australian outback is sacred to the indigenous Anangu people and changes color at sunrise and sunset.",
+    "funFact": "About two-thirds of the rock lies underground; it is estimated to extend 2.5 km into the earth.",
+    "category": "natural"
+  },
+  {
+    "id": "northern-cape",
+    "name": "Cape of Good Hope",
+    "lat": -34.3568,
+    "lng": 18.4734,
+    "clue": "This rocky headland at the southern tip of the African continent was historically significant as the point where sailors could round Africa's southern extremity.",
+    "funFact": "Despite popular belief, it is not the southernmost point of Africa — Cape Agulhas is.",
+    "category": "natural"
+  },
+  {
+    "id": "kilimanjaro",
+    "name": "Mount Kilimanjaro",
+    "lat": -3.0674,
+    "lng": 37.3556,
+    "clue": "This dormant volcano in East Africa is the highest peak on the African continent and the world's tallest free-standing mountain.",
+    "funFact": "It has three volcanic cones: Kibo, Mawenzi, and Shira.",
+    "category": "natural"
+  },
+  {
+    "id": "patagonia",
+    "name": "Torres del Paine",
+    "lat": -50.9423,
+    "lng": -73.4068,
+    "clue": "This national park in southern South America is home to dramatic granite towers, turquoise lakes, and glaciers at the southern tip of the Andes mountain range.",
+    "funFact": "The park sits on a remote peninsula and its name refers to the three distinctive granite spires at its heart.",
+    "category": "natural"
+  },
+  {
+    "id": "bora-bora",
+    "name": "Bora Bora",
+    "lat": -16.5004,
+    "lng": -151.7415,
+    "clue": "This French Polynesian island is surrounded by a turquoise lagoon and a barrier reef, known worldwide as a luxury honeymoon destination in the South Pacific.",
+    "funFact": "Its name in the local language means 'first born', and its peak is the remnant of a dormant volcano.",
+    "category": "natural"
+  },
+  {
+    "id": "gobi-desert",
+    "name": "Gobi Desert",
+    "lat": 42.5908,
+    "lng": 103.7963,
+    "clue": "This large cold desert spanning parts of China and Mongolia was an important part of the ancient Silk Road and is known for rich dinosaur fossil discoveries.",
+    "funFact": "It is one of the few deserts to experience snowfall, due to its high altitude.",
+    "category": "natural"
+  },
+  {
+    "id": "versailles",
+    "name": "Palace of Versailles",
+    "lat": 48.8049,
+    "lng": 2.1204,
+    "clue": "This opulent French royal palace was the seat of political power during the reign of Louis XIV and was the site of the treaty that ended World War I.",
+    "funFact": "The Hall of Mirrors contains 357 mirrors arranged in 17 arched panels.",
+    "category": "landmark"
+  }
+]

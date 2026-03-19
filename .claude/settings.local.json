@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm info:*)",
+      "Bash(npm show:*)",
+      "Bash(npm install:*)",
+      "Bash(pnpm install:*)",
+      "Bash(export PATH=\"$HOME/.nvm/versions/node/v24.14.0/bin:$PATH\")",
+      "Bash(pnpm exec:*)",
+      "Bash(pkill -f \"vite\")",
+      "Bash(pnpm run:*)"
+    ]
+  }
+}

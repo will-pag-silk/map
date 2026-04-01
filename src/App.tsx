@@ -14,7 +14,6 @@ export default function App() {
     setGuess,
     confirmGuess,
     nextRound,
-    restartGame,
   } = useGame();
 
   return (
@@ -46,7 +45,6 @@ export default function App() {
         <GameOver
           rounds={state.rounds}
           totalScore={totalScore}
-          onRestart={restartGame}
         />
       )}
     </>

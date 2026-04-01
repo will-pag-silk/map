@@ -1,470 +1,479 @@
 [
   {
-    "id": "eiffel-tower",
-    "name": "Eiffel Tower",
-    "lat": 48.8584,
-    "lng": 2.2945,
-    "clue": "This iron lattice tower was built as the entrance arch for the 1889 World's Fair and was originally intended to be demolished after 20 years.",
-    "funFact": "It was the world's tallest man-made structure for 41 years.",
+    "id": "alamo",
+    "name": "The Alamo",
+    "lat": 29.4260,
+    "lng": -98.4861,
+    "clue": "This 18th-century Spanish mission in downtown San Antonio became the site of a legendary 1836 battle during the Texas Revolution, where a small garrison was overwhelmed after a 13-day siege.",
+    "funFact": "The defenders held out for 13 days against an army estimated at over 1,800 soldiers before being overrun.",
     "category": "landmark"
   },
   {
-    "id": "machu-picchu",
-    "name": "Machu Picchu",
-    "lat": -13.1631,
-    "lng": -72.545,
-    "clue": "This 15th-century Inca citadel sits at 2,430 metres above sea level in the Andes mountains, often called the 'Lost City of the Incas'.",
-    "funFact": "It was unknown to the outside world until 1911 when Hiram Bingham III visited the site.",
+    "id": "big-bend",
+    "name": "Big Bend National Park",
+    "lat": 29.1275,
+    "lng": -103.2425,
+    "clue": "Named for the sharp turn the Rio Grande makes along its southern border, this West Texas national park contains an entire mountain range rising from the Chihuahuan Desert.",
+    "funFact": "It has more species of birds than any other national park in the United States.",
+    "category": "natural"
+  },
+  {
+    "id": "texas-state-capitol",
+    "name": "Texas State Capitol",
+    "lat": 30.2747,
+    "lng": -97.7404,
+    "clue": "Built from sunset red granite, this building in Austin is taller than the US Capitol in Washington D.C. and has served as the seat of Texas government since 1888.",
+    "funFact": "The dome is 14 feet taller than the US Capitol dome.",
     "category": "landmark"
   },
   {
-    "id": "great-wall",
-    "name": "Great Wall of China",
-    "lat": 40.4319,
-    "lng": 116.5704,
-    "clue": "This ancient series of walls and fortifications stretches thousands of miles across northern East Asia, built over many centuries to protect against invasions.",
-    "funFact": "It is not actually visible from space with the naked eye, contrary to popular belief.",
+    "id": "guadalupe-mountains",
+    "name": "Guadalupe Mountains National Park",
+    "lat": 31.9235,
+    "lng": -104.8738,
+    "clue": "This West Texas park contains the highest peak in the state, and its dramatic limestone reef was formed from an ancient marine fossil reef roughly 265 million years ago.",
+    "funFact": "Guadalupe Peak at 8,749 feet is the highest point in Texas.",
+    "category": "natural"
+  },
+  {
+    "id": "palo-duro-canyon",
+    "name": "Palo Duro Canyon",
+    "lat": 34.9612,
+    "lng": -101.6574,
+    "clue": "Often called the 'Grand Canyon of Texas', this dramatic canyon in the Texas Panhandle is the second largest canyon in the United States, carved by a fork of the Red River.",
+    "funFact": "The canyon walls expose rock layers spanning over 250 million years of geological history.",
+    "category": "natural"
+  },
+  {
+    "id": "san-jacinto-monument",
+    "name": "San Jacinto Monument",
+    "lat": 29.7476,
+    "lng": -95.0806,
+    "clue": "Standing near Houston, this obelisk marks the site of the 1836 battle that lasted just 18 minutes and secured Texas independence from Mexico. It is the world's tallest masonry column.",
+    "funFact": "The battle of San Jacinto lasted only 18 minutes, making it one of the shortest decisive battles in history.",
     "category": "landmark"
   },
   {
-    "id": "colosseum",
-    "name": "Colosseum",
-    "lat": 41.8902,
-    "lng": 12.4922,
-    "clue": "This elliptical amphitheater in the heart of a European capital could hold between 50,000 and 80,000 spectators and hosted gladiatorial contests.",
-    "funFact": "Its construction began under Emperor Vespasian around 70-72 AD.",
+    "id": "enchanted-rock",
+    "name": "Enchanted Rock",
+    "lat": 30.5068,
+    "lng": -98.8196,
+    "clue": "This massive pink granite dome rising 425 feet above the Hill Country floor has been sacred to Native Americans for thousands of years and creaks and groans at night as it cools.",
+    "funFact": "The creaking sounds at night led Native Americans to believe the rock was haunted or enchanted.",
+    "category": "natural"
+  },
+  {
+    "id": "space-center-houston",
+    "name": "Johnson Space Center",
+    "lat": 29.5593,
+    "lng": -95.0935,
+    "clue": "Located in Houston, this NASA facility has served as the mission control center for every US human spaceflight since Gemini 4 in 1965, including the Apollo moon landings.",
+    "funFact": "The phrase 'Houston, we have a problem' was spoken to this facility during the Apollo 13 mission in 1970.",
     "category": "landmark"
   },
   {
-    "id": "taj-mahal",
-    "name": "Taj Mahal",
-    "lat": 27.1751,
-    "lng": 78.0421,
-    "clue": "This ivory-white marble mausoleum was commissioned by a Mughal emperor in the 17th century as a tomb for his favorite wife.",
-    "funFact": "Over 20,000 artisans worked on its construction, which took about 22 years.",
+    "id": "padre-island",
+    "name": "Padre Island National Seashore",
+    "lat": 27.0832,
+    "lng": -97.3720,
+    "clue": "This barrier island along the Gulf Coast is the longest undeveloped barrier island in the world and serves as critical nesting habitat for endangered Kemp's ridley sea turtles.",
+    "funFact": "At 70 miles long, it is the longest stretch of undeveloped barrier island on Earth.",
+    "category": "natural"
+  },
+  {
+    "id": "dealey-plaza",
+    "name": "Dealey Plaza",
+    "lat": 32.7791,
+    "lng": -96.8089,
+    "clue": "This small urban park in downtown Dallas became one of the most infamous locations in American history on November 22, 1963, and is now home to a museum dedicated to that day.",
+    "funFact": "The Sixth Floor Museum at the former Texas School Book Depository receives over 300,000 visitors per year.",
     "category": "landmark"
   },
   {
-    "id": "sydney-opera-house",
-    "name": "Sydney Opera House",
-    "lat": -33.8568,
-    "lng": 151.2153,
-    "clue": "This multi-venue performing arts centre is one of the most distinctive buildings of the 20th century, with its distinctive shell-like roof structures on a harbor.",
-    "funFact": "Danish architect Jørn Utzon won the design competition in 1957 with his revolutionary design.",
+    "id": "caddo-lake",
+    "name": "Caddo Lake",
+    "lat": 32.6957,
+    "lng": -94.1777,
+    "clue": "This mysterious cypress swamp on the Texas-Louisiana border is the only natural lake in Texas and is draped in Spanish moss, creating an atmosphere unlike anywhere else in the state.",
+    "funFact": "It is the only large natural lake in Texas; all others were created by dams.",
+    "category": "natural"
+  },
+  {
+    "id": "austin",
+    "name": "Austin",
+    "lat": 30.2672,
+    "lng": -97.7431,
+    "clue": "This Texas capital along the Colorado River bills itself as the 'Live Music Capital of the World' and hosts one of the largest music and film festivals in the country each spring.",
+    "funFact": "Austin has more live music venues per capita than Nashville.",
+    "category": "city"
+  },
+  {
+    "id": "san-antonio",
+    "name": "San Antonio",
+    "lat": 29.4241,
+    "lng": -98.4936,
+    "clue": "This South Texas city is home to a famous river walk lined with restaurants and shops, five Spanish colonial missions designated as a UNESCO World Heritage Site, and the most visited site in the state.",
+    "funFact": "The San Antonio River Walk sits about 20 feet below street level and stretches 15 miles.",
+    "category": "city"
+  },
+  {
+    "id": "houston",
+    "name": "Houston",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "clue": "The largest city in Texas and the fourth largest in the US, this Gulf Coast metropolis is the energy capital of the world, home to more Fortune 500 companies than any city except New York.",
+    "funFact": "Houston has no zoning laws, making it unique among major American cities.",
+    "category": "city"
+  },
+  {
+    "id": "galveston",
+    "name": "Galveston",
+    "lat": 29.3013,
+    "lng": -94.7977,
+    "clue": "This barrier island city on the Gulf Coast was once the most populous city in Texas and was devastated by the deadliest natural disaster in US history — a hurricane in 1900.",
+    "funFact": "The 1900 Galveston hurricane killed an estimated 6,000–12,000 people, still the deadliest natural disaster in US history.",
+    "category": "city"
+  },
+  {
+    "id": "el-paso",
+    "name": "El Paso",
+    "lat": 31.7619,
+    "lng": -106.4850,
+    "clue": "Nestled in the far western tip of Texas where three states and two countries meet, this desert city sits across the Rio Grande from a major Mexican city and shares the same metropolitan area.",
+    "funFact": "El Paso and Ciudad Juárez form the largest binational metropolitan area on the US-Mexico border.",
+    "category": "city"
+  },
+  {
+    "id": "amarillo",
+    "name": "Cadillac Ranch",
+    "lat": 35.1872,
+    "lng": -101.9872,
+    "clue": "Just west of Amarillo along Route 66, this public art installation features ten Cadillacs buried nose-first in a flat Texas Panhandle field, all spray-painted by visitors.",
+    "funFact": "The cars are angled to match the slope of the Great Pyramid of Giza.",
     "category": "landmark"
   },
   {
-    "id": "amazon-river",
-    "name": "Amazon River",
-    "lat": -3.4653,
-    "lng": -62.2159,
-    "clue": "This massive South American river carries more water than the next seven largest rivers combined, flowing through the world's largest tropical rainforest.",
-    "funFact": "During the wet season, the river can be up to 30 miles wide.",
+    "id": "corpus-christi",
+    "name": "Corpus Christi",
+    "lat": 27.8006,
+    "lng": -97.3964,
+    "clue": "This South Texas coastal city on a large natural bay is home to the USS Lexington aircraft carrier museum and serves as the gateway to Padre Island National Seashore.",
+    "funFact": "It is one of the largest ports in the United States by cargo tonnage.",
+    "category": "city"
+  },
+  {
+    "id": "hamilton-pool",
+    "name": "Hamilton Pool Preserve",
+    "lat": 30.3422,
+    "lng": -98.1268,
+    "clue": "This stunning natural swimming hole west of Austin was formed when the dome of an underground river collapsed thousands of years ago, creating a grotto with a 50-foot waterfall.",
+    "funFact": "The pool was created when the roof of an underground river collapsed due to massive erosion.",
     "category": "natural"
   },
   {
-    "id": "mount-everest",
-    "name": "Mount Everest",
-    "lat": 27.9881,
-    "lng": 86.925,
-    "clue": "At 8,849 metres, this is Earth's highest mountain above sea level, located in the Himalayas on the border between two Asian countries.",
-    "funFact": "Edmund Hillary and Tenzing Norgay made the first confirmed ascent on May 29, 1953.",
-    "category": "natural"
-  },
-  {
-    "id": "grand-canyon",
-    "name": "Grand Canyon",
-    "lat": 36.1069,
-    "lng": -112.1129,
-    "clue": "This steep-sided canyon carved by a river in the American Southwest is 277 miles long, up to 18 miles wide, and over a mile deep.",
-    "funFact": "The canyon exposes nearly two billion years of Earth's geological history.",
-    "category": "natural"
-  },
-  {
-    "id": "niagara-falls",
-    "name": "Niagara Falls",
-    "lat": 43.0962,
-    "lng": -79.0377,
-    "clue": "This group of three waterfalls on the border between the United States and Canada is the most powerful waterfall in North America.",
-    "funFact": "More than 3,160 tons of water flows over the falls every second.",
-    "category": "natural"
-  },
-  {
-    "id": "victoria-falls",
-    "name": "Victoria Falls",
-    "lat": -17.9243,
-    "lng": 25.8572,
-    "clue": "Known locally as 'The Smoke That Thunders', this waterfall on the border between two southern African countries is considered the world's largest.",
-    "funFact": "The spray from the falls can be seen from up to 50 km away.",
-    "category": "natural"
-  },
-  {
-    "id": "sahara-desert",
-    "name": "Sahara Desert",
-    "lat": 23.4162,
-    "lng": 25.6628,
-    "clue": "This is the world's largest hot desert, spanning most of North Africa. Despite its barren image, only about 25% of it is covered in sand.",
-    "funFact": "Approximately 4,000–10,000 years ago, the Sahara was much greener and wetter.",
-    "category": "natural"
-  },
-  {
-    "id": "tokyo",
-    "name": "Tokyo",
-    "lat": 35.6762,
-    "lng": 139.6503,
-    "clue": "This is the world's most populous metropolitan area, a megacity known for its neon-lit skyscrapers, historic temples, and cutting-edge technology.",
-    "funFact": "It was formerly known as Edo and became the imperial capital in 1869.",
-    "category": "city"
-  },
-  {
-    "id": "cairo",
-    "name": "Cairo",
-    "lat": 30.0444,
-    "lng": 31.2357,
-    "clue": "This sprawling African city is the largest in its continent and sits at the gateway to ancient wonders, including giant stone structures built over 4,500 years ago.",
-    "funFact": "The city's name derives from the Arabic Al-Qāhirah, meaning 'The Triumphant'.",
-    "category": "city"
-  },
-  {
-    "id": "rio-de-janeiro",
-    "name": "Rio de Janeiro",
-    "lat": -22.9068,
-    "lng": -43.1729,
-    "clue": "This South American city is famous for its iconic Christ the Redeemer statue, Carnival festival, and stunning natural harbor.",
-    "funFact": "It was the capital of Brazil until 1960 when Brasília was inaugurated.",
-    "category": "city"
-  },
-  {
-    "id": "new-york",
-    "name": "New York City",
-    "lat": 40.7128,
-    "lng": -74.006,
-    "clue": "The most populous city in the United States, known as 'The Big Apple', home to a famous green copper statue gifted by France in 1886.",
-    "funFact": "Over 800 languages are spoken in this city, making it the most linguistically diverse urban area in the world.",
-    "category": "city"
-  },
-  {
-    "id": "london",
-    "name": "London",
-    "lat": 51.5074,
-    "lng": -0.1278,
-    "clue": "This European capital on the Thames River has been a major settlement for over two millennia and is home to a famous clock tower and a red double-decker bus culture.",
-    "funFact": "It became the world's first city to reach a population of 1 million people, around 1811.",
-    "category": "city"
-  },
-  {
-    "id": "dubai",
-    "name": "Dubai",
-    "lat": 25.2048,
-    "lng": 55.2708,
-    "clue": "This ultramodern city in the Arabian Peninsula rose from a small fishing village to a global metropolis in just decades, home to the world's tallest building.",
-    "funFact": "Over 90% of its residents are expatriates from around the world.",
-    "category": "city"
-  },
-  {
-    "id": "moscow",
-    "name": "Moscow",
-    "lat": 55.7558,
-    "lng": 37.6173,
-    "clue": "This city is home to a famous square flanked by a colorful cathedral with onion-shaped domes, and serves as the capital of the world's largest country by area.",
-    "funFact": "The Moscow Metro system is famous for its ornate, palatial stations built in the Soviet era.",
-    "category": "city"
-  },
-  {
-    "id": "beijing",
-    "name": "Beijing",
-    "lat": 39.9042,
-    "lng": 116.4074,
-    "clue": "This East Asian capital contains the world's largest palace complex, a 'Forbidden City' that served as the home of emperors for nearly 500 years.",
-    "funFact": "It has served as the national capital for more than 800 years.",
-    "category": "city"
-  },
-  {
-    "id": "cape-town",
-    "name": "Cape Town",
-    "lat": -33.9249,
-    "lng": 18.4241,
-    "clue": "This South African city sits at the southwestern tip of the continent, dominated by a famous flat-topped mountain that is often shrouded in clouds called a 'tablecloth'.",
-    "funFact": "It is one of the most biodiverse cities in the world, home to a unique floral kingdom.",
-    "category": "city"
-  },
-  {
-    "id": "buenos-aires",
-    "name": "Buenos Aires",
-    "lat": -34.6037,
-    "lng": -58.3816,
-    "clue": "This South American capital is known as the 'Paris of South America' and is the birthplace of the tango, a passionate dance and music style.",
-    "funFact": "It has the widest avenue in the world, Avenida 9 de Julio, spanning 16 lanes.",
-    "category": "city"
-  },
-  {
-    "id": "istanbul",
-    "name": "Istanbul",
-    "lat": 41.0082,
-    "lng": 28.9784,
-    "clue": "This Turkish city is the only major city in the world that spans two continents, and was once the capital of three empires including the Ottoman Empire.",
-    "funFact": "It was previously known as Constantinople and before that as Byzantium.",
-    "category": "city"
-  },
-  {
-    "id": "nairobi",
-    "name": "Nairobi",
-    "lat": -1.2921,
-    "lng": 36.8219,
-    "clue": "This East African capital is unique in having a national park within its city limits where lions and giraffes roam against a backdrop of skyscrapers.",
-    "funFact": "Its name comes from a Maasai phrase meaning 'cool waters' or 'place of cool waters'.",
-    "category": "city"
-  },
-  {
-    "id": "mumbai",
-    "name": "Mumbai",
-    "lat": 19.076,
-    "lng": 72.8777,
-    "clue": "This Indian megacity is the financial capital of the country and home to Bollywood, the world's most prolific film industry by number of films produced.",
-    "funFact": "It was previously known as Bombay until 1995.",
-    "category": "city"
-  },
-  {
-    "id": "angkor-wat",
-    "name": "Angkor Wat",
-    "lat": 13.4125,
-    "lng": 103.867,
-    "clue": "This 12th-century temple complex in Southeast Asia is the world's largest religious monument, originally built as a Hindu temple before converting to Buddhism.",
-    "funFact": "It appears on the national flag of Cambodia.",
+    "id": "fort-worth-stockyards",
+    "name": "Fort Worth Stockyards",
+    "lat": 32.7896,
+    "lng": -97.3480,
+    "clue": "This historic district in Fort Worth preserves the legacy of the cattle trade that once made this city the last stop before the Western frontier, with twice-daily cattle drives still held on its cobblestone streets.",
+    "funFact": "Fort Worth was once the largest cattle market in the world.",
     "category": "landmark"
   },
   {
-    "id": "petra",
-    "name": "Petra",
-    "lat": 30.3285,
-    "lng": 35.4444,
-    "clue": "Known as the 'Rose City' due to the color of the stone from which it is carved, this ancient Middle Eastern city was the capital of the Nabataean Kingdom.",
-    "funFact": "It was featured in Indiana Jones and the Last Crusade as the location of the Holy Grail.",
+    "id": "dallas",
+    "name": "Dallas",
+    "lat": 32.7767,
+    "lng": -96.7970,
+    "clue": "The third-largest city in Texas is known for its gleaming skyline, upscale shopping, and a thriving arts district that is one of the largest contiguous urban arts districts in the United States.",
+    "funFact": "The Dallas Arts District is the largest contiguous urban arts district in the nation at 68 acres.",
+    "category": "city"
+  },
+  {
+    "id": "fort-worth",
+    "name": "Fort Worth",
+    "lat": 32.7555,
+    "lng": -97.3308,
+    "clue": "Known as 'Cowtown', this city sits where the American West truly begins and pairs a world-class museum district — including one of the finest art museums in the South — with genuine rodeo culture.",
+    "funFact": "Fort Worth's Kimbell Art Museum is considered one of the finest small art museums in the world.",
+    "category": "city"
+  },
+  {
+    "id": "marfa",
+    "name": "Marfa",
+    "lat": 30.3085,
+    "lng": -104.0207,
+    "clue": "This tiny West Texas desert town of fewer than 2,000 people became an unlikely art world destination after a minimalist sculptor moved there in the 1970s and filled a former army base with permanent large-scale installations.",
+    "funFact": "The Marfa Lights, unexplained glowing orbs seen on the horizon at night, have mystified observers for over a century.",
+    "category": "city"
+  },
+  {
+    "id": "fredericksburg",
+    "name": "Fredericksburg",
+    "lat": 30.2752,
+    "lng": -98.8720,
+    "clue": "Founded by German immigrants in 1846, this Hill Country town still reflects its heritage in its architecture and cuisine, and sits at the center of a thriving wine region with over 50 wineries nearby.",
+    "funFact": "The National Museum of the Pacific War, honoring Fleet Admiral Chester Nimitz who was born here, is located in this small Texas town.",
+    "category": "city"
+  },
+  {
+    "id": "waco",
+    "name": "Waco",
+    "lat": 31.5493,
+    "lng": -97.1467,
+    "clue": "This Central Texas city on the Brazos River is home to the world's largest collection of Baylor University and gained nationwide fame when a pair of TV personalities turned a run-down building into a home renovation empire.",
+    "funFact": "The Waco Mammoth National Monument contains the only recorded evidence of a nursery herd of Columbian mammoths in the US.",
+    "category": "city"
+  },
+  {
+    "id": "lubbock",
+    "name": "Lubbock",
+    "lat": 33.5779,
+    "lng": -101.8552,
+    "clue": "Rising from the flat South Plains of West Texas, this city is the birthplace of rock and roll pioneer Buddy Holly and sits at the heart of the largest contiguous cotton-growing region in the world.",
+    "funFact": "The region around Lubbock produces roughly 25% of all US cotton.",
+    "category": "city"
+  },
+  {
+    "id": "abilene",
+    "name": "Abilene",
+    "lat": 32.4487,
+    "lng": -99.7331,
+    "clue": "Once the end of the legendary Chisholm Trail cattle drives in the 1870s, this West Texas city reinvented itself as an educational and military hub and is home to Dyess Air Force Base.",
+    "funFact": "The Abilene State Park preserves a rare remnant of the original Texas buffalo range.",
+    "category": "city"
+  },
+  {
+    "id": "san-angelo",
+    "name": "San Angelo",
+    "lat": 31.4638,
+    "lng": -100.4370,
+    "clue": "Nestled where three rivers converge in West Texas, this city is known as the 'Wool and Mohair Capital of the World' and contains a beautifully restored frontier-era fort along the Concho River.",
+    "funFact": "San Angelo produces more wool and mohair than any other region in the United States.",
+    "category": "city"
+  },
+  {
+    "id": "laredo",
+    "name": "Laredo",
+    "lat": 27.5306,
+    "lng": -99.4803,
+    "clue": "Sitting directly on the Rio Grande across from its Mexican sister city, this South Texas border town is the largest inland port on the US-Mexico border and one of the oldest communities in Texas.",
+    "funFact": "Laredo is the largest inland port of entry in the United States, handling over 40% of US-Mexico land trade.",
+    "category": "city"
+  },
+  {
+    "id": "brownsville",
+    "name": "Brownsville",
+    "lat": 25.9017,
+    "lng": -97.4975,
+    "clue": "The southernmost city in Texas sits at the mouth of the Rio Grande and was the site of the first battle of the Mexican-American War in 1846. Today its wildlife corridor hosts some of the rarest birds in North America.",
+    "funFact": "The area around Brownsville is one of the top birdwatching destinations in the US, home to over 500 species.",
+    "category": "city"
+  },
+  {
+    "id": "lockhart",
+    "name": "Lockhart",
+    "lat": 29.8849,
+    "lng": -97.6700,
+    "clue": "The Texas Legislature officially declared this small town south of Austin the 'BBQ Capital of Texas', home to several legendary smokehouse institutions that have been slow-cooking brisket for generations.",
+    "funFact": "Kreuz Market in Lockhart has been smoking meat since 1900 and famously serves no sauce — the meat speaks for itself.",
     "category": "landmark"
   },
   {
-    "id": "stonehenge",
-    "name": "Stonehenge",
-    "lat": 51.1789,
-    "lng": -1.8262,
-    "clue": "This prehistoric monument on a British plain consists of a ring of standing stones weighing up to 25 tonnes, built over 4,000 years ago for unknown purposes.",
-    "funFact": "The larger stones were transported from a quarry about 25 miles away.",
+    "id": "natural-bridge-caverns",
+    "name": "Natural Bridge Caverns",
+    "lat": 29.6924,
+    "lng": -98.3430,
+    "clue": "Named for the 60-foot natural limestone bridge spanning its entrance, this cave system near San Antonio is the largest commercially operated cavern in Texas and contains spectacular stalactite and stalagmite formations.",
+    "funFact": "The caverns maintain a constant temperature of 70°F year-round regardless of outside conditions.",
+    "category": "natural"
+  },
+  {
+    "id": "lost-maples",
+    "name": "Lost Maples State Natural Area",
+    "lat": 29.8113,
+    "lng": -99.5729,
+    "clue": "Tucked into a remote canyon of the Texas Hill Country, this preserve shelters a rare stand of Uvalde bigtooth maple trees that turn brilliant red and orange each fall — unusual for subtropical Texas.",
+    "funFact": "These maple trees are a relict population isolated from other maple forests by hundreds of miles.",
+    "category": "natural"
+  },
+  {
+    "id": "pedernales-falls",
+    "name": "Pedernales Falls State Park",
+    "lat": 30.3082,
+    "lng": -98.2568,
+    "clue": "Just west of Austin, the Pedernales River cascades over broad limestone steps in this Hill Country park, near the ranch where a Texas-born US President spent much of his presidency.",
+    "funFact": "President Lyndon B. Johnson's LBJ Ranch is just a few miles away and is now a National Historical Park.",
+    "category": "natural"
+  },
+  {
+    "id": "barton-springs",
+    "name": "Barton Springs Pool",
+    "lat": 30.2640,
+    "lng": -97.7713,
+    "clue": "Fed by underground springs that maintain a constant 68°F temperature year-round, this three-acre natural swimming pool in the heart of Austin has been a gathering place for locals for over a century.",
+    "funFact": "The spring-fed pool is home to the endangered Barton Springs salamander, found nowhere else on Earth.",
+    "category": "natural"
+  },
+  {
+    "id": "dinosaur-valley",
+    "name": "Dinosaur Valley State Park",
+    "lat": 32.2507,
+    "lng": -97.8128,
+    "clue": "The bed of the Paluxy River in Glen Rose exposes some of the best-preserved dinosaur trackways in the world, where massive sauropod and theropod footprints were pressed into mud over 110 million years ago.",
+    "funFact": "The tracks include both plant-eating sauropods and predatory theropods, offering a rare snapshot of dinosaur interaction.",
+    "category": "natural"
+  },
+  {
+    "id": "hueco-tanks",
+    "name": "Hueco Tanks State Park",
+    "lat": 31.9249,
+    "lng": -106.0416,
+    "clue": "Rising from the Chihuahuan Desert near El Paso, these rocky hills contain natural rock basins that collected rainwater, making them a vital oasis for humans for over 10,000 years and leaving behind thousands of pictographs.",
+    "funFact": "The site contains over 3,000 pictographs representing cultures spanning 10,000 years, including rare 'Jornada Mogollon' mask paintings.",
+    "category": "natural"
+  },
+  {
+    "id": "balmorhea",
+    "name": "Balmorhea State Park",
+    "lat": 30.9477,
+    "lng": -103.7463,
+    "clue": "In the desert of West Texas, this park contains the world's largest spring-fed swimming pool — over 1.75 acres filled by San Solomon Springs, which pushes out 22–26 million gallons of 72–76°F water daily.",
+    "funFact": "The pool is deep enough for scuba diving and is home to two endangered fish species found only in this spring system.",
+    "category": "natural"
+  },
+  {
+    "id": "seminole-canyon",
+    "name": "Seminole Canyon State Park",
+    "lat": 29.6996,
+    "lng": -101.3188,
+    "clue": "This dramatic canyon in southwest Texas shelters some of North America's oldest rock art — pictographs painted by ancient peoples over 4,000 years ago — deep inside a rugged desert gorge above the Pecos River.",
+    "funFact": "The Fate Bell Shelter contains pictographs estimated to be 4,000 years old, among the oldest rock art in North America.",
+    "category": "natural"
+  },
+  {
+    "id": "washington-on-the-brazos",
+    "name": "Washington-on-the-Brazos",
+    "lat": 30.3349,
+    "lng": -96.1619,
+    "clue": "On March 2, 1836, delegates gathered at this small town on the Brazos River to sign the Texas Declaration of Independence, making it the birthplace of the Republic of Texas.",
+    "funFact": "Texas Independence Day is still celebrated on March 2nd, the date the declaration was signed here in 1836.",
     "category": "landmark"
   },
   {
-    "id": "chichen-itza",
-    "name": "Chichen Itza",
-    "lat": 20.6843,
-    "lng": -88.5678,
-    "clue": "This pre-Columbian city built by the Maya civilization in Mexico features a famous step pyramid that casts a serpent-shaped shadow during the equinoxes.",
-    "funFact": "The pyramid has exactly 365 steps, one for each day of the year.",
+    "id": "goliad",
+    "name": "Goliad State Park & Historic Site",
+    "lat": 28.6469,
+    "lng": -97.3891,
+    "clue": "At this South Texas mission complex, 342 Texan prisoners of war were executed on Palm Sunday 1836 on orders from Santa Anna — an event that galvanized Texan forces and became a battle cry alongside the Alamo.",
+    "funFact": "'Remember Goliad' became a rallying cry just like 'Remember the Alamo' after the massacre of Colonel Fannin's men.",
     "category": "landmark"
   },
   {
-    "id": "acropolis",
-    "name": "Acropolis of Athens",
-    "lat": 37.9715,
-    "lng": 23.7257,
-    "clue": "This ancient citadel perched on a rocky outcrop above a Mediterranean capital contains the remains of several ancient buildings of great architectural and historic significance.",
-    "funFact": "The Parthenon was used as a temple, treasury, church, mosque, and arms depot over its history.",
+    "id": "fort-davis",
+    "name": "Fort Davis National Historic Site",
+    "lat": 30.5988,
+    "lng": -103.8938,
+    "clue": "Perched in the Davis Mountains of West Texas, this frontier army post was established to protect travelers on the San Antonio-El Paso Road and was famously garrisoned by the Buffalo Soldiers after the Civil War.",
+    "funFact": "Fort Davis is one of the best-preserved frontier military posts in the American Southwest.",
     "category": "landmark"
   },
   {
-    "id": "mount-fuji",
-    "name": "Mount Fuji",
-    "lat": 35.3606,
-    "lng": 138.7274,
-    "clue": "This symmetrical stratovolcano is the highest peak in an island nation and has been a sacred site and source of artistic inspiration for centuries.",
-    "funFact": "It last erupted in 1707 and is considered one of the world's most iconic mountains.",
-    "category": "natural"
-  },
-  {
-    "id": "aurora-borealis-tromsø",
-    "name": "Tromsø",
-    "lat": 69.6496,
-    "lng": 18.9553,
-    "clue": "This Norwegian city above the Arctic Circle is one of the best places on Earth to see the Northern Lights dancing in the night sky.",
-    "funFact": "It is nicknamed the 'Gateway to the Arctic' and experiences the midnight sun in summer.",
-    "category": "city"
-  },
-  {
-    "id": "galapagos",
-    "name": "Galapagos Islands",
-    "lat": -0.9538,
-    "lng": -90.9656,
-    "clue": "This remote volcanic archipelago in the Pacific Ocean inspired Charles Darwin's theory of natural selection after his visit in 1835.",
-    "funFact": "Giant tortoises here can live over 170 years and were the primary inspiration for the islands' name.",
-    "category": "natural"
-  },
-  {
-    "id": "great-barrier-reef",
-    "name": "Great Barrier Reef",
-    "lat": -18.2871,
-    "lng": 147.6992,
-    "clue": "This is the world's largest coral reef system, stretching over 2,300 km off the northeastern coast of Australia, visible from outer space.",
-    "funFact": "It comprises over 2,900 individual reefs and 900 islands.",
-    "category": "natural"
-  },
-  {
-    "id": "lake-titicaca",
-    "name": "Lake Titicaca",
-    "lat": -15.8402,
-    "lng": -69.3336,
-    "clue": "This is the world's highest navigable lake, straddling the border between two South American countries at an elevation of 3,812 metres.",
-    "funFact": "Floating islands made entirely of totora reeds are inhabited by the Uros people on this lake.",
-    "category": "natural"
-  },
-  {
-    "id": "dead-sea",
-    "name": "Dead Sea",
-    "lat": 31.5,
-    "lng": 35.5,
-    "clue": "This salt lake bordered by Jordan and Israel is Earth's lowest point on land at 430 metres below sea level, with salinity so high that swimmers naturally float.",
-    "funFact": "Nothing can live in its waters due to its extreme salinity, which is about ten times saltier than the ocean.",
-    "category": "natural"
-  },
-  {
-    "id": "antartica-mcmurdo",
-    "name": "McMurdo Station",
-    "lat": -77.8419,
-    "lng": 166.6863,
-    "clue": "This is the largest research station on the southernmost continent, serving as the main hub for scientific exploration in Earth's most extreme environment.",
-    "funFact": "The surrounding region has not received rain in two million years, making it Earth's driest desert.",
+    "id": "mcdonald-observatory",
+    "name": "McDonald Observatory",
+    "lat": 30.6717,
+    "lng": -104.0225,
+    "clue": "Perched atop Mount Locke in the Davis Mountains, this research observatory benefits from some of the darkest skies in the continental United States and hosts public star parties that draw visitors from across the country.",
+    "funFact": "The area around McDonald Observatory has some of the least light pollution of any region in the lower 48 states.",
     "category": "landmark"
   },
   {
-    "id": "reykjavik",
-    "name": "Reykjavik",
-    "lat": 64.1265,
-    "lng": -21.8174,
-    "clue": "This is the northernmost capital city of a sovereign state, located in a volcanic island nation famous for geysers, hot springs, and stunning natural landscapes.",
-    "funFact": "Almost all of its electricity comes from renewable geothermal and hydropower sources.",
-    "category": "city"
-  },
-  {
-    "id": "timbuktu",
-    "name": "Timbuktu",
-    "lat": 16.7666,
-    "lng": -3.0026,
-    "clue": "This fabled city in the Sahara Desert of West Africa was once one of the most important centers of Islamic scholarship and trans-Saharan trade in the 15th century.",
-    "funFact": "The city's name has become synonymous in many cultures with a remote, faraway place.",
-    "category": "city"
-  },
-  {
-    "id": "zanzibar",
-    "name": "Zanzibar",
-    "lat": -6.1659,
-    "lng": 39.2026,
-    "clue": "This semi-autonomous archipelago off the coast of East Africa is famous for its spice trade history, white-sand beaches, and historic Stone Town.",
-    "funFact": "Freddie Mercury, lead singer of Queen, was born here in 1946.",
-    "category": "city"
-  },
-  {
-    "id": "havana",
-    "name": "Havana",
-    "lat": 23.1136,
-    "lng": -82.3666,
-    "clue": "This Caribbean island capital is famous for its well-preserved colonial architecture, vintage American cars, and vibrant salsa music scene.",
-    "funFact": "It is the largest city in the Caribbean and was founded by the Spanish in 1519.",
-    "category": "city"
-  },
-  {
-    "id": "kathmandu",
-    "name": "Kathmandu",
-    "lat": 27.7172,
-    "lng": 85.3240,
-    "clue": "This Himalayan capital sits in a valley surrounded by mountains and serves as the gateway for expeditions to the world's highest peaks.",
-    "funFact": "The valley contains seven UNESCO World Heritage Sites within close proximity.",
-    "category": "city"
-  },
-  {
-    "id": "marrakech",
-    "name": "Marrakech",
-    "lat": 31.6295,
-    "lng": -7.9811,
-    "clue": "This North African city's ancient medina is a maze of souks, mosques, and palaces, known for its main square that fills nightly with entertainers and food stalls.",
-    "funFact": "It is nicknamed the 'Red City' due to the distinctive rose-red sandstone walls and buildings.",
-    "category": "city"
-  },
-  {
-    "id": "venice",
-    "name": "Venice",
-    "lat": 45.4408,
-    "lng": 12.3155,
-    "clue": "This Italian city is built on 118 small islands separated by canals, where gondolas replace cars and the city slowly sinks about 1-2mm per year.",
-    "funFact": "The city was built on millions of wooden piles driven into the lagoon floor.",
-    "category": "city"
-  },
-  {
-    "id": "kyoto",
-    "name": "Kyoto",
-    "lat": 35.0116,
-    "lng": 135.7681,
-    "clue": "This Japanese city served as the imperial capital for over a millennium and is famous for its thousands of classical Buddhist temples, gardens, and geisha districts.",
-    "funFact": "It was removed from the US atomic bomb target list due to its historical and cultural significance.",
-    "category": "city"
-  },
-  {
-    "id": "ayers-rock",
-    "name": "Uluru",
-    "lat": -25.3444,
-    "lng": 131.0369,
-    "clue": "This massive sandstone monolith in the heart of the Australian outback is sacred to the indigenous Anangu people and changes color at sunrise and sunset.",
-    "funFact": "About two-thirds of the rock lies underground; it is estimated to extend 2.5 km into the earth.",
-    "category": "natural"
-  },
-  {
-    "id": "northern-cape",
-    "name": "Cape of Good Hope",
-    "lat": -34.3568,
-    "lng": 18.4734,
-    "clue": "This rocky headland at the southern tip of the African continent was historically significant as the point where sailors could round Africa's southern extremity.",
-    "funFact": "Despite popular belief, it is not the southernmost point of Africa — Cape Agulhas is.",
-    "category": "natural"
-  },
-  {
-    "id": "kilimanjaro",
-    "name": "Mount Kilimanjaro",
-    "lat": -3.0674,
-    "lng": 37.3556,
-    "clue": "This dormant volcano in East Africa is the highest peak on the African continent and the world's tallest free-standing mountain.",
-    "funFact": "It has three volcanic cones: Kibo, Mawenzi, and Shira.",
-    "category": "natural"
-  },
-  {
-    "id": "patagonia",
-    "name": "Torres del Paine",
-    "lat": -50.9423,
-    "lng": -73.4068,
-    "clue": "This national park in southern South America is home to dramatic granite towers, turquoise lakes, and glaciers at the southern tip of the Andes mountain range.",
-    "funFact": "The park sits on a remote peninsula and its name refers to the three distinctive granite spires at its heart.",
-    "category": "natural"
-  },
-  {
-    "id": "bora-bora",
-    "name": "Bora Bora",
-    "lat": -16.5004,
-    "lng": -151.7415,
-    "clue": "This French Polynesian island is surrounded by a turquoise lagoon and a barrier reef, known worldwide as a luxury honeymoon destination in the South Pacific.",
-    "funFact": "Its name in the local language means 'first born', and its peak is the remnant of a dormant volcano.",
-    "category": "natural"
-  },
-  {
-    "id": "gobi-desert",
-    "name": "Gobi Desert",
-    "lat": 42.5908,
-    "lng": 103.7963,
-    "clue": "This large cold desert spanning parts of China and Mongolia was an important part of the ancient Silk Road and is known for rich dinosaur fossil discoveries.",
-    "funFact": "It is one of the few deserts to experience snowfall, due to its high altitude.",
-    "category": "natural"
-  },
-  {
-    "id": "versailles",
-    "name": "Palace of Versailles",
-    "lat": 48.8049,
-    "lng": 2.1204,
-    "clue": "This opulent French royal palace was the seat of political power during the reign of Louis XIV and was the site of the treaty that ended World War I.",
-    "funFact": "The Hall of Mirrors contains 357 mirrors arranged in 17 arched panels.",
+    "id": "gruene-hall",
+    "name": "Gruene Hall",
+    "lat": 29.7371,
+    "lng": -98.1075,
+    "clue": "Built in 1878 in the tiny Guadalupe River town of Gruene, this is the oldest continuously operating dance hall in Texas, where legends like Willie Nelson and Lyle Lovett have played on a humble stage.",
+    "funFact": "Gruene Hall has no air conditioning — just open windows and ceiling fans — and has operated continuously since 1878.",
     "category": "landmark"
+  },
+  {
+    "id": "uss-texas",
+    "name": "Battleship Texas",
+    "lat": 29.7476,
+    "lng": -95.0867,
+    "clue": "Moored near the San Jacinto Monument outside Houston, this dreadnought battleship is the last surviving warship to have served in both World Wars and was the first US Navy ship to be preserved as a museum.",
+    "funFact": "The USS Texas supported the D-Day landings at Normandy in 1944 and earned five battle stars in World War II.",
+    "category": "landmark"
+  },
+  {
+    "id": "south-padre-island",
+    "name": "South Padre Island",
+    "lat": 26.1045,
+    "lng": -97.1677,
+    "clue": "At the southernmost tip of Texas, this narrow barrier island resort town on the Gulf of Mexico is a spring break destination and home to Sea Turtle, Inc., a rehabilitation center for injured sea turtles.",
+    "funFact": "South Padre Island is one of the top spring break destinations in the US, drawing over 100,000 college students annually.",
+    "category": "city"
+  },
+  {
+    "id": "luckenbach",
+    "name": "Luckenbach",
+    "lat": 30.1835,
+    "lng": -98.7412,
+    "clue": "This unincorporated Hill Country community consists of little more than a general store, a dance hall, and a post office, yet became immortalized in a 1977 country song and draws thousands of visitors who come to do absolutely nothing.",
+    "funFact": "Luckenbach has a permanent population of about 3 people but draws over 250,000 visitors per year.",
+    "category": "landmark"
+  },
+  {
+    "id": "port-aransas",
+    "name": "Port Aransas",
+    "lat": 27.8334,
+    "lng": -97.0641,
+    "clue": "Accessible only by ferry or a long bridge, this laid-back fishing village on Mustang Island is the saltwater fishing capital of Texas and hosts a remarkable spring bird migration with over 400 species recorded.",
+    "funFact": "Port Aransas is considered one of the top birding destinations in the United States during spring migration.",
+    "category": "city"
+  },
+  {
+    "id": "johnson-city",
+    "name": "LBJ Ranch",
+    "lat": 30.2491,
+    "lng": -98.6254,
+    "clue": "Known as the 'Texas White House', this working ranch in the Hill Country was the beloved home of the 36th President, who was born nearby, held cabinet meetings under live oak trees, and was buried here.",
+    "funFact": "LBJ was so proud of Texas that he held foreign dignitaries and press conferences on the ranch, herding cattle while discussing policy.",
+    "category": "landmark"
+  },
+  {
+    "id": "palo-alto-battlefield",
+    "name": "Palo Alto Battlefield",
+    "lat": 26.0279,
+    "lng": -97.4602,
+    "clue": "On May 8, 1846, the first major battle of the Mexican-American War was fought on this coastal prairie near present-day Brownsville, setting in motion events that would reshape the map of North America.",
+    "funFact": "The US Army's use of horse artillery at Palo Alto was so effective it transformed military tactics across the continent.",
+    "category": "landmark"
+  },
+  {
+    "id": "lake-travis",
+    "name": "Lake Travis",
+    "lat": 30.4035,
+    "lng": -97.9094,
+    "clue": "This Highland Lakes reservoir on the Colorado River northwest of Austin is the playground of the Texas capital, stretching 65 miles through Hill Country canyons and providing flood control, water supply, and recreation.",
+    "funFact": "Lake Travis can vary by over 100 feet in depth between flood and drought years due to its role as a flood-control reservoir.",
+    "category": "natural"
+  },
+  {
+    "id": "cadillac-bar-nuevo-laredo",
+    "name": "Amistad National Recreation Area",
+    "lat": 29.4524,
+    "lng": -101.0741,
+    "clue": "Straddling the US-Mexico border on the Rio Grande near Del Rio, this vast reservoir created by an international dam offers some of the best bass fishing in North America amid ancient desert canyon scenery.",
+    "funFact": "The name 'Amistad' means friendship in Spanish, reflecting the international cooperation between the US and Mexico to build the dam.",
+    "category": "natural"
+  },
+  {
+    "id": "tyler",
+    "name": "Tyler",
+    "lat": 32.3513,
+    "lng": -95.3011,
+    "clue": "Deep in the Piney Woods of East Texas, this city is known as the 'Rose Capital of America', producing roughly 20% of all commercially grown roses in the United States and hosting an annual rose festival since 1933.",
+    "funFact": "The Tyler Municipal Rose Garden is the largest publicly owned rose garden in the US, with over 38,000 rose bushes of 500+ varieties.",
+    "category": "city"
   }
 ]

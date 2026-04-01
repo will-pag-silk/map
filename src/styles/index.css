@@ -261,18 +261,42 @@ body {
   white-space: nowrap;
 }
 
-.game-over-card .play-again-btn {
-  background: #facc15;
-  color: #0f172a;
-  border: none;
-  border-radius: 0.5rem;
-  padding: 0.75rem 2rem;
-  font-size: 1rem;
-  font-weight: 700;
-  cursor: pointer;
-  transition: background 0.15s;
+.game-over-card .next-game {
+  margin-top: 1.2rem;
+  text-align: center;
 }
 
-.game-over-card .play-again-btn:hover {
-  background: #eab308;
+.game-over-card .next-game-label {
+  font-size: 0.85rem;
+  color: #94a3b8;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.3rem;
+}
+
+.game-over-card .next-game-countdown {
+  font-size: 2rem;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  color: #facc15;
+  letter-spacing: 0.05em;
+}
+
+.game-over-card .share-btn {
+  margin-top: 1rem;
+  background: transparent;
+  color: #e2e8f0;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 0.5rem;
+  padding: 0.6rem 1.5rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+  width: 100%;
+}
+
+.game-over-card .share-btn:hover {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.35);
 }

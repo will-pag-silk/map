@@ -14,6 +14,7 @@ body {
 #root {
   width: 100vw;
   height: 100vh;
+  height: 100dvh;
   position: relative;
 }
 
@@ -62,7 +63,7 @@ body {
 /* Clue card */
 .clue-card {
   position: absolute;
-  bottom: 1.5rem;
+  bottom: calc(1.5rem + env(safe-area-inset-bottom, 0px));
   left: 50%;
   transform: translateX(-50%);
   z-index: 10;
@@ -95,6 +96,13 @@ body {
   font-weight: 600;
   cursor: pointer;
   transition: background 0.15s, opacity 0.15s;
+  min-height: 44px;
+}
+
+@media (max-width: 480px) {
+  .clue-card .confirm-btn {
+    align-self: stretch;
+  }
 }
 
 .clue-card .confirm-btn:disabled {
